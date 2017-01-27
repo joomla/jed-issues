@@ -1,2 +1,2 @@
-# jed-issues
+# JED Issues
 Joomla! Extensions Directory - Issue Tracker
